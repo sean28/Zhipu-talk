@@ -5,8 +5,8 @@ const sendButton = document.getElementById('sendButton');
 const statusArea = document.getElementById('statusArea');
 
 // --- 智谱 API 设置 ---
-const API_KEY = "802b85a75fc946388ab5effefce0d5ce.FhMsKzsoGVk9sQJ2";
-const MODEL_NAME = "glm-4"; // 也可以用 "glm-3-turbo"
+const API_KEY = "c58b9fb5df634d4faf8a3f40b92e963d.HsrRebXw7hzQsH4O";
+const MODEL_NAME = "glm-4.5-flash"; 
 const API_URL = "https://open.bigmodel.cn/api/paas/v4/chat/completions";
 
 // --- 对话上下文记录 ---
